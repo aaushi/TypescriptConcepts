@@ -1,3 +1,3 @@
 console.log("hello");
 
-let a:number=10;
+let a:number=20;
